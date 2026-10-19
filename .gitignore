@@ -1,0 +1,11 @@
+state/
+server.log
+__pycache__/
+
+# Datos locales y privados
+jarvis.db
+jarvis.db-*
+sample-notes/
+.env
+.venv/
+venv/
